@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Eduardo
 
-<!--
-**ItsukiE/ItsukiE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📘 Estudante de Matemática Aplicada, apaixonado por ciência, tecnologia e dados.
 
-Here are some ideas to get you started:
+👨‍💼 Atualmente, sou estagiário na [dp6](https://www.dp6.com.br/) na área de Data Science e Business Analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Este repositório é meu espaço para compartilhar projetos, anotações, experimentos e ideias — tudo enquanto evoluo na jornada de dados.
+
+## 💼 O que você pode encontrar aqui
+
+- 📊 Projetos de análise de dados (Python, pandas, matplotlib, seaborn)
+- 🤖 Primeiros passos com machine learning
+- 📝 Notebooks com estudos e desafios resolvidos
+- 💡 Pequenos scripts e utilidades que criei ou adaptei
+
+## 🛠 Tecnologias & Ferramentas
+
+- Python (pandas, NumPy, matplotlib)
+- SQL
+- Jupyter Notebook
+
+## 📚 Aprendendo agora
+
+- Estatística aplicada
+- Machine Learning
+- MMM (Marketing Mix Modeling) e MTA (Multi-Touch Attribution)
+
+## 📬 Quer falar comigo?
+
+Sinta-se à vontade para me chamar por e-mail ou pelo LinkedIn:
+
+- ✉️ [E-mail](edu.lucsil@gmail.com)  
+- 💼 [Linkedin](https://www.linkedin.com/in/eduluc/)
+
+---
