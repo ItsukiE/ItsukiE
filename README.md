@@ -1,8 +1,8 @@
 # 👋 Olá! Eu sou o Eduardo
 
-📘 Estudante de Matemática Aplicada, apaixonado por ciência, tecnologia e dados.
+📘 Estudante de Matemática Aplicada e Computacional ([IME_USP](https://www.ime.usp.br/)), apaixonado por ciência, tecnologia e dados.
 
-👨‍💼 Atualmente, sou estagiário na [dp6](https://www.dp6.com.br/) na área de Data Science e Business Analytics.
+👨‍💼 Atualmente, sou estagiário na [dp6](https://www.dp6.com.br/) na área de Data Science.
 
 🚀 Este repositório é meu espaço para compartilhar projetos, anotações, experimentos e ideias — tudo enquanto evoluo na jornada de dados.
 
